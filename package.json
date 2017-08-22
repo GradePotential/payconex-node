@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "babel --presets=es2017,stage-3 src --out-dir dist",
+    "prepublishOnly": "babel --presets=es2015,es2016,es2017,stage-3 src --out-dir dist",
     "start": "babel-node --presets=es2015,es2016,es2017,stage-3 test.js"
   },
   "repository": {
