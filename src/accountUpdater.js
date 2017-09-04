@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import SFTPClient from 'sftp-promises';
 import R from 'ramda';
 

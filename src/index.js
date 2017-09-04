@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import post from './post.js';
 import PropTypes from 'prop-types';
 import AccountUpdaterClient from './accountUpdater.js';
