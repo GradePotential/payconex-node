@@ -1,6 +1,6 @@
 {
   "name": "@gradepotential/payconex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "payconex api wrapper",
   "main": "dist/index.js",
   "scripts": {
